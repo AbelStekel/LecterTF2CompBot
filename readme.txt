@@ -19,6 +19,14 @@ https://guide.pycord.dev/popular-topics/error-handling
 
 https://steamcommunity.com/dev						//resources regarding steamapi
 https://developer.valvesoftware.com/wiki/Steam_Web_API			//for transforming steam url to steamid
+https://github.com/ValvePython/steam/blob/master/steam/steamid.py
+
+
+pip install python-steam-api
+pip install beautifulsoup4
+pip install -U discord.py
+
+
 
 Todo:
 RGL API support?
