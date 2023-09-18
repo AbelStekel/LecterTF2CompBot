@@ -20,6 +20,7 @@ https://guide.pycord.dev/popular-topics/error-handling
 https://steamcommunity.com/dev						//resources regarding steamapi
 https://developer.valvesoftware.com/wiki/Steam_Web_API			//for transforming steam url to steamid
 https://github.com/ValvePython/steam/blob/master/steam/steamid.py
+https://pypi.org/project/python-steam-api/
 
 
 pip install python-steam-api
@@ -29,4 +30,6 @@ pip install -U discord.py
 
 
 Todo:
-RGL API support?
+Convert vanity urls?
+ETF2L API support
+RGL API support
