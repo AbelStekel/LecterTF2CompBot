@@ -3,10 +3,12 @@ tf2compbot (or, tf_lecterbot)
 
 Made by: Lecter, tf_lecter (steam, youtube) or twitch.tv/DrLector
 
+This is a Discord bot written in Python.
 
-Goal of the bot is to use both the steam and etf2l APIs to easily div-check a user.
-Developed recreatively, potential goal of being used by the Fortress Faceoffs Org.
+Goal of the bot is to use both the steam and etf2l APIs to easily check the division of a user.
+Developed recreatively with the potential goal of being used by the Fortress Faceoffs Tournament Org.
 
+(ETF2L is the european competetive tf2 league. RGL is the NA equivalent.)
 
 Some of the sources used:
 
